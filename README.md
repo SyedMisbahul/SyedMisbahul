@@ -45,6 +45,7 @@ I'm a passionate developer from India interested in building practical software 
 
 ### 1. SkinAI – AI-Powered Skin Lesion Classification
 
+- **Live Demo:** [skin-ai-tan.vercel.app](https://skin-ai-tan.vercel.app/)
 - Developed an AI-powered skin lesion classification system using **MobileNetV2**.
 - Trained the model on the **HAM10000 dataset**.
 - Achieved **90.22% validation accuracy**.
