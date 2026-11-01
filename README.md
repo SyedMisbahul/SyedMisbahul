@@ -1,21 +1,15 @@
-# Syed_MisbahUl_Islam
+
 
 # Hi 👋, I'm Syed Misbahul Islam Golam Jwilanee
 
-###Code. Learn. Build. Repeat. | Python | AI/ML | SQL | Backend Development
+Code. Learn. Build. Repeat. | Python | AI/ML | SQL | Backend Development
 
 🎓 B.Tech in Computer Science & Engineering (AI & ML) | 2022–2026
 
 I'm a passionate developer from India interested in building practical software solutions using Python, Backend Development, and Artificial Intelligence. I enjoy solving programming problems, exploring new technologies, and developing real-world projects.
 
-- 🔭 Working on improving my **Python, Backend Development, and Machine Learning** skills.
-- 🌱 Learning **Data Structures & Algorithms, SQL, and Backend Technologies**.
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, and Software Development**.
-- 💻 Practicing problem-solving through coding challenges and projects.
 - 📫 Reach me at: **syedmisba2001@gmail.com**
-
 ---
-
 ## 🛠️ Languages and Tools
 
 ### Programming Languages
