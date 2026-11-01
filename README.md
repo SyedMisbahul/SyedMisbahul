@@ -94,7 +94,7 @@ Currently strengthening my Data Structures and Algorithms skills.
 </p>
 
 <p align="center">
-  <a href="YOUR_LEETCODE_PROFILE_URL">
+  <a href="https://leetcode.com/u/syedmisbah1422/">
     <img src="https://img.shields.io/badge/LeetCode-View%20My%20Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
