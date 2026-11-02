@@ -24,7 +24,8 @@ I'm a passionate developer from India interested in building practical software 
 
 ### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 ### AI / ML & Data Science
